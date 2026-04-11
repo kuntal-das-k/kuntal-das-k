@@ -2,20 +2,22 @@
 <h3 align="center">CSE Student | Developer | Content Lead</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=25&center=true&vCenter=true&width=500&lines=Passionate+Developer;FastAPI+Enthusiast;Content+Creator;Always+Learning+New+Things" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=24&center=true&vCenter=true&width=500&lines=Passionate+Developer;Building+Strong+Problem+Solving+Skills;Always+Learning+New+Things" />
 </p>
 
 ---
 
 ## 🚀 About Me
 
-<img align="right" alt="coding" width="300" src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif">
+<img align="right" alt="coding" width="260" src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif">
 
 - 🎓 2nd Year B.Tech CSE Student  
-- 💻 Skilled in **Python, C, HTML, CSS**  
+- 💻 Skilled in **Python, C, Java, HTML, CSS**  
 - ⚡ Working with **FastAPI & Backend Development**  
 - 🗄️ Databases: **MySQL & Oracle**  
 - 🌐 Deployment: **Vercel**  
+- 🏢 Organising Team Member at **SAP Inside Track Kolkata**  
+- 🔶 Core Team Member at **Oracle Kolkata Community**  
 - ✍️ Content Lead at **SKEPSIS**  
 - 📱 Managing **LinkedIn & Social Media**  
 - 🎯 Goal: Become a **Full Stack Developer**
@@ -25,13 +27,13 @@
 ## 🧠 What I Have Learned
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,html,css,git,github,vscode,mysql,fastapi" />
+  <img src="https://skillicons.dev/icons?i=python,c,java,html,css,git,github,vscode,mysql,fastapi" />
 </p>
 
-### 💡 Core Knowledge
 - 🔹 Data Structures & Algorithms  
 - 🔹 DBMS  
 - 🔹 Computer Organization  
+- 🔹 Object-Oriented Programming (OOP)  
 - 🔹 Backend Development (FastAPI)  
 - 🔹 Content & Community Management  
 
@@ -42,6 +44,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python">
   <img src="https://img.shields.io/badge/C-blue?style=for-the-badge&logo=c">
+  <img src="https://img.shields.io/badge/Java-red?style=for-the-badge&logo=java">
   <img src="https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5">
   <img src="https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3">
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi">
@@ -54,7 +57,7 @@
 
 ## 📂 Projects
 
-<img align="right" alt="project" width="250" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
+<img align="right" alt="projects" width="250" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
 
 - 🧾 **Invoice Generator**  
   → Generates invoices in Text & PDF  
@@ -70,8 +73,8 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KUNTAL-DAS&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KUNTAL-DAS&theme=tokyonight" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=kuntal-das-k&show_icons=true&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=kuntal-das-k&theme=tokyonight" />
 </p>
 
 ---
@@ -89,14 +92,6 @@
 
 ---
 
-## ⚡ Fun Fact
-
-<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="200">
-
-I combine **tech + creativity** — building projects while managing content & communities.
-
----
-
 <p align="center">
-  ⭐ Thanks for visiting my profile!
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:007CF0&height=120&section=footer"/>
 </p>
