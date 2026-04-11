@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kuntal Das</h1>
-<h3 align="center">CSE Student | Developer | Content Lead</h3>
+<h3 align="center">CSE Student | Developer</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=24&center=true&vCenter=true&width=500&lines=Passionate+Developer;Building+Strong+Problem+Solving+Skills;Always+Learning+New+Things" />
