@@ -7,7 +7,7 @@
 
 ---
 
-## 🚀 About Me
+##  About Me
 
 <img align="right" alt="coding" width="260" src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif">
 
